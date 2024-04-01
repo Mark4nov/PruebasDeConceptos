@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasDeConceptos.WPF", "PruebasDeConceptos.WPF\PruebasDeConceptos.WPF.csproj", "{8B097CDD-CC7D-41F7-BEE6-4D8D0A6FE0F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDeConceptos.WINFORMS", "PruebaDeConceptos.WINFORMS\PruebaDeConceptos.WINFORMS.csproj", "{77600155-EB2B-4954-BB6C-5F9C3E879BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B097CDD-CC7D-41F7-BEE6-4D8D0A6FE0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B097CDD-CC7D-41F7-BEE6-4D8D0A6FE0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B097CDD-CC7D-41F7-BEE6-4D8D0A6FE0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B097CDD-CC7D-41F7-BEE6-4D8D0A6FE0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77600155-EB2B-4954-BB6C-5F9C3E879BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77600155-EB2B-4954-BB6C-5F9C3E879BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77600155-EB2B-4954-BB6C-5F9C3E879BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77600155-EB2B-4954-BB6C-5F9C3E879BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C36455-E7DD-4A1F-A246-A164BC555883}
+	EndGlobalSection
+EndGlobal
